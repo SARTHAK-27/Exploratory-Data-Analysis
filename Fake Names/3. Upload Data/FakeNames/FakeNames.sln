@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FakeNames", "FakeNames.dtproj", "{43F4011B-2EC6-4C24-86F7-3CE901CC3198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F4011B-2EC6-4C24-86F7-3CE901CC3198}.Development|Default.ActiveCfg = Development
+		{43F4011B-2EC6-4C24-86F7-3CE901CC3198}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A017391-0291-405E-8930-FCBE67BE9590}
+	EndGlobalSection
+EndGlobal
